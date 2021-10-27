@@ -4,5 +4,5 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=bayuputra18 alt=bayuputra18 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bayuputra18&show_icons=true&include_all_commits=true)](https://github.com/bayuputra18/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bayuputra18&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/bayuputra18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayuputra18&layout=compact)](https://github.com/bayuputra18/github-readme-stats)
