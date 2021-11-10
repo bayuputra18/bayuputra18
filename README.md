@@ -31,7 +31,7 @@ A **WEB DEVELOPMENT & NETWORK ADMINISTRATOR**🚀🚀.
 
 **About Me!**
 
-- 🕸️ Junior Network Administrator
+- 🕸️ Network Administrator
 - 🖥️ Web development
  
 
