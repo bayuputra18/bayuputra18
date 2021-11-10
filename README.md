@@ -1,23 +1,59 @@
-<h2> Hi, I'm Bayu!</h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/65327648?s=96&v=4" width="230">
-<p><em>Web Developer at <a href="http://www.websitekita.id">Website Kita</a>
-</em></p>
-
-[![Twitter: dMiTry0180](https://img.shields.io/twitter/follow/dMiTry0180?style=social)](https://twitter.com/dMiTry0180)
-[![Linkedin: Bayu Putra Herlambang](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayuputra-5a4045202/)](https://www.linkedin.com/in/bayuputra-5a4045202/)
-[![GitHub Bayu](https://img.shields.io/github/followers/bayuputra18?label=follow&style=social)](https://github.com/bayuputra18)
 
 
-More about me...  
-
-```javascript
-const hai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Php, PHP, C++, Ruby, Python, Java],
-  tools: [React, Node , Docker, Figma],
-  operating system: ["I use Linux btw"],
- challenge: "404"
-}
-```
 
 
+
+<h3 title="hehehe"> Hey 👋, I'm Bayu!</h3>
+
+<a href="https://www.linkedin.com/in/bayuputra-5a4045202/">
+  <img align="left" alt="Bayu's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/bayherl_">
+  <img align="left" alt="Bayu's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.t.me/dmtry18">
+  <img align="left" alt="Bayu's Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/dMiTry0180">
+  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+
+
+
+
+<br />
+<br />
+
+A **WEB DEVELOPMENT & NETWORK ADMINISTRATOR**🚀🚀.
+ 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me!**
+
+- 🕸️ Junior Network Administrator
+- 🖥️ Web development
+ 
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bayuputra18&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Bayu's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayuputra18&count_private=true&theme=radical" alt="Bayu" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuputra18&count_private=true&theme=radical" alt="Bayu" />
+
+----
+Credit: [Jas-Script](https://github.com/Jas-Script)
+
+Last Edited on: 04/01/2021
