@@ -27,8 +27,6 @@
 A **WEB DEVELOPMENT & NETWORK ADMINISTRATOR**🚀🚀.
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **About Me!**
 
 - 🕸️ Network Administrator
@@ -49,11 +47,10 @@ A **WEB DEVELOPMENT & NETWORK ADMINISTRATOR**🚀🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=bayuputra18&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Bayu's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayuputra18&count_private=true&theme=radical" alt="Bayu" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuputra18&count_private=true&theme=radical" alt="Bayu" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
 
-Last Edited on: 04/01/2021
